@@ -1,16 +1,35 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Todo application built with React** to strengthen my understanding of core React concepts while building a clean and functional user interface.
 
-Currently, two official plugins are available:
+This project was developed as a small challenge to **practice, test ideas, and deepen my React knowledge** by implementing common features used in everyday applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Add new todos
+- Mark tasks as completed
+- Delete tasks
+- Strike-through completed tasks
+- Responsive and clean UI
+- Built with **React** and **TailwindCSS**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What I Focused On
 
-## Expanding the ESLint configuration
+While building this project I focused on:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Managing state using **React Hooks**
+- Handling user events (clicks, inputs, keyboard actions)
+- Rendering dynamic lists
+- Updating UI based on application state
+- Structuring a small React application in a clean and readable way
+
+## Technologies Used
+
+- **React**
+- **JavaScript (ES6)**
+- **TailwindCSS**
+- **FontAwesome / React Icons**
+
+## Purpose of the Project
+
+This project was created as a hands-on exercise to **experiment with features, solve small challenges, and deepen my practical understanding of React while building something useful.**
